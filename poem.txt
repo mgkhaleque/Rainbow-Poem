@@ -5,6 +5,8 @@ Pink
 Orange
 Blue
 Green
+unicorn
 Yelloow
 Red
 These are the colors of the Rainbow
+And the unicorn

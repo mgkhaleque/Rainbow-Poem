@@ -1,4 +1,4 @@
-The Rainbow and the unicorn and the Ponies
+The Rainbow and the unicorn and the Ponies and the NewPonies
 
 Purple
 Pink
@@ -12,3 +12,4 @@ Red
 These are the colors of the Rainbow
 And the unicorn
 Pony
+NewPonies
